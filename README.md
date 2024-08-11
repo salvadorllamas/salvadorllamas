@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-llamas-b9809b291/)
 
-Experiencia en ingeniería de software y desarrollo de aplicaciones. Eficaz con un firme compromiso en el desarrollo personal y laboral.
+Eficaz con un firme compromiso en el desarrollo personal y laboral.
 
 ## Tecnologías
 
