@@ -70,7 +70,10 @@ Eficaz con un firme compromiso en el desarrollo personal y laboral.
     margin-top: 1rem;
 ">
   <p style="color: #49474A; font-weight: bold; margin-bottom: 0.5rem;"></p>
-  <a href="https://www.salvadorllamas.com" style="
+ <a href="https://www.salvadorllamas.com" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   style="
       color: #B56A6C; /* Color del enlace */
       text-decoration: none;
       font-weight: bold;
